@@ -16,7 +16,7 @@
 
 # 目录
 ## 1.Rocket Designer System V2.0火箭发动机设计软件发布
-**[下载](https://github.com/Kanyon-industries/Rocket/releases/download/RDS/Rocket.Designer.System.zip)**
+**[下载](https://github.com/Kanyon-industries/Rocket/releases/download/RDS/Rocket.Designer.System.v2.0.exe)**
 <br>
 ### 面向所有业余火箭爱好者永久免费使用
 <br>
