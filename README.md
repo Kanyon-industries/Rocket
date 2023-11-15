@@ -11,9 +11,7 @@
 <br>
 【RD-02】2000N液氧-煤油液体火箭发动机  →  https://www.bilibili.com/video/BV17J411b7Tz
 </details>
-
-#
-
+<br>
 # 目录
 ## 1.Rocket Designer System V2.0火箭发动机设计软件发布
 **[下载](https://github.com/Kanyon-industries/Rocket/releases/download/RDS/Rocket.Designer.System.zip)**
@@ -21,9 +19,7 @@
 ### 面向所有业余火箭爱好者永久免费使用
 <br>
 此软件由猎鹰和黄斯基共同开发。猎鹰已于2023年3月去世，谨以此纪念他的贡献
-
-#
-
+<br>
 此软件旨在为火箭研究初学者提供ansys之类专业软件的下位替代，软件支持固体|液体|固液混合三种类型发动机的综合计算功能。同时拥有力学分析，部分内弹道模拟，燃速分析，法兰计算等功能
 <br>
 ### 固体火箭发动机计算
