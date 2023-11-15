@@ -4,7 +4,7 @@
 
 #
 
-## Publicly available information on the rocket development projects of Kanyon Industries and Lunar Capital team
+## Publicly available information on the rocket development projects of Kanyon Industries and Lunapolis Dynamics
 <details>
 <summary>video</summary>
 【RD-01】500N fuming nitric acid-Tonka 250 liquid rocket motor  →  https://www.bilibili.com/video/BV1CW411C7Dg
