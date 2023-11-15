@@ -20,8 +20,10 @@
 <br>
 ### Permanent free access for all amateur rocketeers
 <br>
-This software was developed by Jude ma and Huangsky. Falcon passed away in March 2023 and would like to honor his contribution
+This software was developed by Jude ma and Huangsky. Jude ma passed away in March 2023 and would like to honor his contribution
+
 <br>
+
 This software is designed for rocket research beginners to provide ansys and other professional software as a lower alternative, the software supports solid | liquid | hybrid of three types of engines integrated calculation function. At the same time has a mechanical analysis, part of the ballistic simulation, combustion velocity analysis, flange calculation and other functions.
 <br>
 
