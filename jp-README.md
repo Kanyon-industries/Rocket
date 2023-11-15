@@ -16,7 +16,7 @@
 
 # カタログ
 ## 1.Rocket Designer System V2.0 ロケットモーター設計ソフトウェアをリリース
-**[ダウンロード](https://github.com/Kanyon-industries/Rocket/releases/download/RDS/Rocket.Designer.System.zip)**
+**[ダウンロード](https://github.com/Kanyon-industries/Rocket/releases/download/RDS/Rocket.Designer.System.v2.0.exe)**
 <br>
 ### プロでないすべてのロケット愛好家は、永久に無料で使用できる！
 <br>
