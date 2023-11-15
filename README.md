@@ -1,2 +1,2 @@
 # Rocket
-Design and software releases on Kanyon Industries rocket-related projects
+Design and software release of rocket-related projects for Kanyon Industries
