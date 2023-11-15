@@ -16,7 +16,7 @@
 
 # Catalogue
 ## 1.Rocket Designer System V2.0 Rocket Engine Design Software Released
-**[Download](https://github.com/Kanyon-industries/Rocket/releases/download/RDS/Rocket.Designer.System.zip)**
+**[Download](https://github.com/Kanyon-industries/Rocket/releases/download/RDS/Rocket.Designer.System.v2.0.exe)**
 <br>
 ### Permanent free access for all amateur rocketeers
 <br>
