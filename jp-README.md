@@ -6,7 +6,7 @@
 
 ## 勘云工造と月の都のロケット開発プロジェクトに関する公開情報
 <details>
-<summary>视频资料</summary>
+<summary>ビデオ</summary>
 【RD-01】500N 発煙硝酸-Tonka250 液体ロケットモーター  →  https://www.bilibili.com/video/BV1CW411C7Dg
 <br>
 【RD-02】2000N液体酸素-ケロシン 液体ロケットモーター  →  https://www.bilibili.com/video/BV17J411b7Tz
@@ -14,9 +14,9 @@
 
 #
 
-# 目录
+# カタログ
 ## 1.Rocket Designer System V2.0 ロケットモーター設計ソフトウェアをリリース
-**[下载](https://github.com/Kanyon-industries/Rocket/releases/download/RDS/Rocket.Designer.System.zip)**
+**[ダウンロード](https://github.com/Kanyon-industries/Rocket/releases/download/RDS/Rocket.Designer.System.zip)**
 <br>
 ### プロでないすべてのロケット愛好家は、永久に無料で使用できる！
 <br>
