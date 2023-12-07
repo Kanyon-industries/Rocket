@@ -16,7 +16,9 @@
 
 # カタログ
 ## 1.Rocket Designer System V2.0 ロケットモーター設計ソフトウェアをリリース
-**[ダウンロード](https://github.com/Kanyon-industries/Rocket/releases/download/RDS/Rocket.Designer.System.v2.0.exe)**
+<details>
+  
+**[Download](https://github.com/Kanyon-industries/Rocket/releases/download/RDS/Rocket.Designer.System.v2.0.exe)**
 <br>
 ### プロでないすべてのロケット愛好家は、永久に無料で使用できる！
 <br>
@@ -58,3 +60,33 @@
 ![管质量计算](https://github.com/Kanyon-industries/Rocket/assets/57067525/22551612-345c-4c67-9569-dac34e7a3092)
 ![法兰计算](https://github.com/Kanyon-industries/Rocket/assets/57067525/2595402b-efed-48fd-9d96-e28cd3addeb0)
 ![落压计算](https://github.com/Kanyon-industries/Rocket/assets/57067525/a6536367-d322-45ef-b3b7-5ce9f31594dc)
+</details>
+
+## 2.AWSL-01 Rocket Engine Test Stand System
+<details>
+<br>
+
+**[Download](https://github.com/Kanyon-industries/Rocket/releases/download/AWSL/AWSL-01.Rocket.Engine.Test.Stand.System.zip)**
+<br>
+### プロでないすべてのロケット愛好家は、永久に無料で使用できる！
+<br>
+このシステムはCKDとkkによって開発された。
+<br>
+このテストスタンドは、アルミニウムのプロファイルとレーザーカットされたQ235鋼板をモジュール基盤として利用し、透明なポリカーボネートパネルを防爆シールドとして採用することで、実験事故による人員や機器への被害を効果的に防止します。
+<br>
+このシステムはSTM32プラットフォームに基づいて開発され、圧力取得、リアルタイム表示、ワイヤレスデータ伝送、データ保存、ワイヤレス点火システム、バルブ制御システムなどの機能を備えています。
+<br>
+点火、緊急停止、およびその他のカスタマイズ可能な機能は、パスワード保護付きのリモートコントロールを使用して実行できます。
+<br>
+圧力測定システムは最大サンプリングレート80Hzを達成し、内蔵SDカードによるリアルタイム保存が可能で、実験中のどの時点でも有効なデータの収集を保証します。
+<br>
+システムは2つの独立した電源から供給されます。サーボの起動操作による干渉の可能性があるため、マイクロコントローラーには電源とIOインターフェースの絶縁対策が施されている。
+<br>
+テストスタンドはエンジンのクランプ径を調整でき、直径40mmから310mmのロケットエンジンに対応します。デフォルトの設置サイズでは、0～2Tのホイール型圧力センサーに対応しています。ベースプレートの取り付け寸法を変更することで、異なるレンジの圧力センサーを簡単に代用することができます。
+<br>
+
+![1](https://github.com/Kanyon-industries/Rocket/assets/57067525/037ebd3f-e1f6-48c9-9206-14b400a3cc77)
+![2](https://github.com/Kanyon-industries/Rocket/assets/57067525/f4cf22fa-ddd7-47ab-adee-99783135b87a)
+![3](https://github.com/Kanyon-industries/Rocket/assets/57067525/45f5524e-322d-465b-9bf5-a2dce8dc7c7e)
+</details>
+
