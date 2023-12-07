@@ -16,6 +16,9 @@
 
 # 目录
 ## 1.Rocket Designer System V2.0火箭发动机设计软件发布
+<details>
+<br>
+
 **[下载](https://github.com/Kanyon-industries/Rocket/releases/download/RDS/Rocket.Designer.System.v2.0.exe)**
 <br>
 ### 面向所有业余火箭爱好者永久免费使用
@@ -59,8 +62,34 @@
 ![管质量计算](https://github.com/Kanyon-industries/Rocket/assets/57067525/22551612-345c-4c67-9569-dac34e7a3092)
 ![法兰计算](https://github.com/Kanyon-industries/Rocket/assets/57067525/2595402b-efed-48fd-9d96-e28cd3addeb0)
 ![落压计算](https://github.com/Kanyon-industries/Rocket/assets/57067525/a6536367-d322-45ef-b3b7-5ce9f31594dc)
+</details>
 
+## 2.AWSL-01火箭发动机试车台系统
+<details>
+<br>
 
+**[下载](https://github.com/Kanyon-industries/Rocket/releases/download/AWSL/AWSL-01.Rocket.Engine.Test.Stand.System.zip)**
+<br>
+### 面向所有业余火箭爱好者永久免费使用
+<br>
+此系统由陈科帝和kk共同开发。
+<br>
+本试车台使用铝型材和激光切割q235钢板作为模块化基础架构，使用透明聚碳酸酯板作为防爆插板，可以有效防止实验事故对人员以及设备造成伤害
+<br>
+系统基于stm32开发，包含压力采集，实时显示，无线数传，数据存储以及无线点火系统，阀门控制系统
+<br>
+可通过遥控器完成带有密码保险的点火，急停以及更多自定义拓展功能
+<br>
+测力系统的采样率最大可达到80HZ，并且通过内置sd卡进行实时存储，在实验的任何时刻都可以采集到有效数据
+<br>
+系统通过两路独立电源供电，由于舵机启动运行会对电源产生干扰所以对单片机供电以及io做了隔离
+<br>
+试车台可调整发动机夹持直径，可容纳直径40-310mm的火箭发动机，默认安装尺寸可支持0-2T的轮辐式压力传感器，通过修改底板安装尺寸可替换其他量程的压力传感器
+<br>
+![1](https://github.com/Kanyon-industries/Rocket/assets/57067525/037ebd3f-e1f6-48c9-9206-14b400a3cc77)
+![2](https://github.com/Kanyon-industries/Rocket/assets/57067525/f4cf22fa-ddd7-47ab-adee-99783135b87a)
+![3](https://github.com/Kanyon-industries/Rocket/assets/57067525/45f5524e-322d-465b-9bf5-a2dce8dc7c7e)
+</details>
 
 
 
