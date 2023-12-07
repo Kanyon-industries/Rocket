@@ -85,6 +85,7 @@ The system is powered by two independent power sources. Due to potential interfe
 <br>
 The test stand allows for the adjustment of the engine clamping diameter and can accommodate rocket engines with diameters ranging from 40mm to 310mm. The default installation size supports wheel-type pressure sensors with a range of 0-2T. By modifying the baseplate installation dimensions, pressure sensors with different ranges can be easily substituted.
 <br>
+
 ![1](https://github.com/Kanyon-industries/Rocket/assets/57067525/037ebd3f-e1f6-48c9-9206-14b400a3cc77)
 ![2](https://github.com/Kanyon-industries/Rocket/assets/57067525/f4cf22fa-ddd7-47ab-adee-99783135b87a)
 ![3](https://github.com/Kanyon-industries/Rocket/assets/57067525/45f5524e-322d-465b-9bf5-a2dce8dc7c7e)
